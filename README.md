@@ -24,5 +24,5 @@ I’m an Industrial Engineering student, currently learning how to apply concept
 
 ## Contact
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_s.ph_a)](https://www.instagram.com/_s.ph_a)
-[![Email Badge](https://img.shields.io/badge/Email-me-red?style=plastic&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Email Badge](https://img.shields.io/badge/Email-me-red?style=plastic&logo=gmail&logoColor=white)](mailto:psgria22@gmail.com)
 
