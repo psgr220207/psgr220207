@@ -23,5 +23,6 @@ I’m an Industrial Engineering student, currently learning how to apply concept
 - Apply everything I learn to build a better future.
 
 ## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_s.ph_a)](https://www.instagram.com/_s.ph_a)
 [![Email Badge](https://img.shields.io/badge/Email-me-red?style=plastic&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+
